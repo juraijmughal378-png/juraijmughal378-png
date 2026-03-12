@@ -1,27 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0033ff&height=220&section=header&text=Juraij%20Sadaqat%20(Cyber%20Commando)&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Juraij%20Sadaqat%20(Cyber%20Commando)&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 # 👨‍💻 Juraij Sadaqat (Cyber Commando)
 
 🧑‍💻 Ethical Hacker in Training  
-🔒 Cybersecurity Enthusiast  
-🐧 Linux Lover  
-🚀 Open Source Explorer  
+🔐 Cybersecurity Enthusiast  
+🐧 Linux & Open Source Advocate  
+🚀 Passionate about Penetration Testing & Security Research  
+
+I am focused on **Cybersecurity, Ethical Hacking and Vulnerability Research**.  
+Currently practicing security labs and building cybersecurity tools.
 
 ---
 
-# 🖥️ Hacker Terminal
+# 🖥️ Cyber Terminal
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&lines=Booting+Cyber+Systems...;Initializing+Security+Protocols...;Cyber+Commando+Mode+Activated...;Penetration+Testing+In+Progress..."/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&lines=Booting+Cyber+Systems...;Cyber+Commando+Activated...;Running+Security+Protocols...;Penetration+Testing+In+Progress..."/>
 </p>
 
 ---
 
-# 🔥 Matrix Cyber System
+# 🔥 Cyber Matrix System
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="500"/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="520"/>
 </p>
+
+---
+
+# 🧠 Cybersecurity Learning Path
+
+Networking → Linux → Web Security → Penetration Testing → Red Team Operations
+
+Practicing on:
+
+• TryHackMe  
+• Hack The Box  
+• PortSwigger Labs  
 
 ---
 
@@ -46,25 +61,25 @@ Penetration Testing
 
 # 🛠️ Tech Stack
 
-![skills](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,vscode,docker)
+![skills](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,docker,vscode)
 
 ---
 
 # 🔐 Cybersecurity Arsenal
 
-- Nmap
-- Burp Suite
-- Wireshark
-- Metasploit
-- Gobuster
-- Nikto
-- Hydra
+• Nmap  
+• Burp Suite  
+• Wireshark  
+• Metasploit  
+• Gobuster  
+• Nikto  
+• Hydra  
 
 ---
 
 # 🎯 Current Cyber Missions
 
-✔ Reconnaissance  
+✔ Reconnaissance & OSINT  
 ✔ Web Application Security Testing  
 ✔ Privilege Escalation Labs  
 ✔ Vulnerability Assessment  
@@ -75,7 +90,7 @@ Penetration Testing
 # 🚀 Featured Projects
 
 ### 🔹 Cybersecurity Portfolio
-Portfolio website showcasing:
+A portfolio website showcasing:
 
 • Penetration Testing  
 • OSINT Reconnaissance  
@@ -89,12 +104,12 @@ Red Team internship project including:
 
 • Target reconnaissance  
 • Attack surface discovery  
-• Information gathering  
+• Security analysis  
 
 ---
 
 ### 🔹 Student Management System
-A **C++ Object Oriented Programming project** to manage student records.
+A **C++ Object Oriented Programming project** for managing student records.
 
 ---
 
@@ -106,7 +121,7 @@ A **C++ Object Oriented Programming project** to manage student records.
 
 # 📡 Cyber Activity Graph
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378-png&theme=react-dark)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378-png&theme=react-dark)
 
 ---
 
@@ -116,7 +131,13 @@ A **C++ Object Oriented Programming project** to manage student records.
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 Top Languages
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juraijmughal378-png&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Achievements
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=juraijmughal378-png&theme=matrix)
 
@@ -128,21 +149,20 @@ A **C++ Object Oriented Programming project** to manage student records.
 
 ---
 
-# 🧠 Cybersecurity Training Grounds
-
-Practicing on:
+# 🧠 Cybersecurity Labs
 
 • TryHackMe  
 • Hack The Box  
 • PortSwigger Web Security Academy  
+• Capture The Flag Challenges  
 
 ---
 
 # 🎖 TryHackMe Badge
 
-(Replace USERNAME with your TryHackMe username)
+Replace USERNAME with your TryHackMe username
 
-![badge](https://tryhackme-badges.s3.amazonaws.com/JuraijSadaqat.png)
+![badge](https://tryhackme-badges.s3.amazonaws.com/USERNAME.png)
 
 ---
 
@@ -154,23 +174,23 @@ Practicing on:
 
 ---
 
-# 🚀 Future Cybersecurity Projects
+# 🚀 Cybersecurity Project Roadmap
 
-Planned GitHub Projects:
+Future repositories to build:
 
 • Python Vulnerability Scanner  
 • Web Application Security Scanner  
 • Password Cracking Tool  
-• OSINT Recon Automation Tool  
+• OSINT Automation Toolkit  
 • Network Port Scanner  
 • Linux Privilege Escalation Scripts  
 • CTF Writeups Repository  
 
 ---
 
-# 💀 Hacker Philosophy
+# 💀 Hacker Mindset
 
-> "Security is not a product, it's a process."
+> “Security is a continuous process, not a one-time product.”
 
 ---
 
@@ -186,6 +206,6 @@ https://linkedin.com/in/juraij-mughal-b92a4939a
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=juraijmughal378-png&color=green)
+![](https://komarev.com/ghpvc/?username=juraijmughal378-png&color=brightgreen)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033ff,100:00ff99&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
