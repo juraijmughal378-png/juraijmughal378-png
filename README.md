@@ -17,30 +17,25 @@
 
 ---
 
-# 🔥 Cyber Code Animation
+# 🔥 Cyber Vibes Animation
 
 <p align="center">
-<img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
 </p>
 
 ---
 
-# 🎮 Cyber Skill Progress
+# 🎮 Cyber Skill Progress (Animated Bars)
 
-Python  
-██████████░░░░ 70%  
+Python: <img src="https://progress-bar.dev/70/?title=Python&width=200&suffix=%25&color=00FF99" />  
 
-Linux  
-████████████░░ 85%  
+Linux: <img src="https://progress-bar.dev/85/?title=Linux&width=200&suffix=%25&color=00FF99" />  
 
-Networking  
-████████░░░░░░ 60%  
+Networking: <img src="https://progress-bar.dev/60/?title=Networking&width=200&suffix=%25&color=00FF99" />  
 
-Web Security  
-██████████░░░░ 70%  
+Web Security: <img src="https://progress-bar.dev/70/?title=WebSec&width=200&suffix=%25&color=00FF99" />  
 
-Penetration Testing  
-███████░░░░░░░ 55%  
+Penetration Testing: <img src="https://progress-bar.dev/55/?title=Pentest&width=200&suffix=%25&color=00FF99" />  
 
 ---
 
@@ -48,35 +43,44 @@ Penetration Testing
 
 ![skills](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,docker,vscode)
 
-**Cybersecurity Tools:**  
-Nmap • Burp Suite • Wireshark • Metasploit • Gobuster • Nikto • Hydra • SQLmap • OWASP ZAP  
+**Cybersecurity Tools:** Nmap • Burp Suite • Wireshark • Metasploit • Gobuster • Nikto • Hydra • SQLmap • OWASP ZAP  
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects (TOP 20)
 
-### 🔹 Cybersecurity Portfolio
-Portfolio website showcasing:
+> **Ready-to-commit starter templates & folder structure included below**  
 
-- OSINT Reconnaissance  
-- Web Penetration Testing  
-- Vulnerability Assessment  
-**Tools Used:** HTML, CSS, JS, Python, Nmap, Burp Suite  
+```
+Cyber-Projects/
+├─ Python/
+│  ├─ VulnerabilityScanner/
+│  ├─ WebAppScanner/
+│  ├─ PasswordCracker/
+│  └─ OSINTAutomation/
+├─ Cpp/
+│  ├─ StudentManagementSystem/
+│  ├─ NetworkScanner/
+│  └─ PrivEscScripts/
+├─ Bash/
+│  ├─ LinuxPrivEsc/
+│  ├─ FirewallAnalyzer/
+│  └─ APITester/
+├─ Web/
+│  ├─ SecurityDashboard/
+│  ├─ SQLiXSSDemo/
+│  └─ PhishingSim/
+├─ MalwareAnalysis/
+├─ CloudSecurityToolkit/
+├─ IoTSecurity/
+└─ SteganographyAnalyzer/
+```
 
-### 🔹 Reconnaissance Attack Surface Mapping
-Red Team internship project:
-
-- Target Recon  
-- Attack Surface Mapping  
-- Security Analysis  
-**Tools Used:** Nmap, Nikto, Gobuster, Python  
-
-### 🔹 Student Management System
-C++ OOP project:
-
-- Manage student records  
-- Demonstrates Classes, Inheritance, Encapsulation  
-**Tools Used:** C++ Standard Library, VSCode  
+> **Starter Templates:**  
+- Python `.py` starter with CLI  
+- C++ `.cpp` OOP starter  
+- Bash `.sh` automation starter  
+- Web HTML/CSS/JS starter  
 
 ---
 
@@ -126,33 +130,6 @@ Replace `USERNAME` with your TryHackMe username
 • Cisco Introduction to Cybersecurity  
 • Google Cybersecurity Certificate  
 • TryHackMe Pre Security Path  
-
----
-
-# 💻 TOP 20 CYBERSECURITY PROJECT IDEAS (Folder + Starter Templates Coming)
-
-1. Python Vulnerability Scanner  
-2. Web Application Security Scanner  
-3. Password Cracking Tool  
-4. OSINT Automation Toolkit  
-5. Network Port Scanner  
-6. Linux Privilege Escalation Scripts  
-7. CTF Writeups Repository  
-8. Metasploit Automation Scripts  
-9. Wireshark Packet Analyzer Scripts  
-10. SQL Injection Testing Toolkit  
-11. XSS Exploit Demo  
-12. Email Phishing Simulation Tool  
-13. Cloud Security Assessment Scripts  
-14. IoT Device Security Toolkit  
-15. Malware Analysis Scripts  
-16. Security Dashboard (Python/JS)  
-17. VPN Penetration Testing Toolkit  
-18. Firewall Rule Analyzer  
-19. API Security Testing Toolkit  
-20. Steganography Analyzer  
-
-> 🚀 Full folder structure + ready-to-commit starter code templates for these 20 projects coming next.  
 
 ---
 
