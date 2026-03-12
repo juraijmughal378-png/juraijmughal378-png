@@ -1,47 +1,135 @@
-# Hi 👋 I'm Juraij Mughal
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0033ff&height=200&section=header&text=Juraij%20Mughal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+# 👋 Hi, I'm Juraij Mughal
 
 🧑‍💻 Ethical Hacker in Training  
 🔒 Cybersecurity Enthusiast  
 💻 Linux Lover  
 🚀 Open Source Explorer  
 
-I am passionate about Cybersecurity, Ethical Hacking and Penetration Testing.
-Currently learning security tools and practicing labs on different platforms.## 🛠️ Skills
+I am passionate about **Cybersecurity, Ethical Hacking and Penetration Testing**.  
+Currently learning security tools and practicing labs on different platforms.
 
-- Python
-- C++
-- Linux
-- Networking
-- Bash Scripting
-- Web Security## 🔐 Cybersecurity Tools
+---
+
+# 🧠 Currently Learning
+
+- Penetration Testing  
+- Web Security  
+- Linux Security  
+- Digital Forensics  
+
+Practicing on:
+
+- TryHackMe  
+- Hack The Box  
+- PortSwigger Labs  
+
+---
+
+# 🛠️ Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,vscode)
+
+---
+
+# 🔐 Cybersecurity Tools
 
 - Nmap
 - Burp Suite
 - Wireshark
 - Metasploit
 - Gobuster
-- Nikto## 🚀 Projects
+- Nikto
 
-### Cybersecurity Portfolio Website
-A personal portfolio website showcasing my cybersecurity skills and projects.
+---
 
-### Reconnaissance Attack Surface Mapping
-A report created during my Red Team internship focusing on reconnaissance techniques.
+# 🚀 Featured Projects
 
-### Student Management System
-A C++ based project demonstrating object oriented programming concepts.## 🏆 Certifications
+## 🔹 Cybersecurity Portfolio Website
+A personal cybersecurity portfolio website showcasing my work in:
 
-- Cisco Introduction to Cybersecurity
-- Google Cybersecurity Certificate
-- TryHackMe Pre Security Path## 🧠 Labs & Practice
+- Penetration Testing
+- OSINT Reconnaissance
+- Digital Forensics
+- Vulnerability Assessment
+
+---
+
+## 🔹 Reconnaissance Attack Surface Mapping
+Red Team internship project focused on:
+
+- Target reconnaissance
+- Attack surface mapping
+- Information gathering
+- Security analysis
+
+---
+
+## 🔹 Student Management System
+A **C++ OOP project** used to manage student records and demonstrate object-oriented programming concepts.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=juraijmughal378-png&theme=tokyonight)
+
+---
+
+# 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juraijmughal378-png&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=juraijmughal378-png&theme=matrix)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🧪 Labs & Practice
 
 - TryHackMe Labs
 - Hack The Box Machines
-- Web Security Labs## 📊 GitHub Stats
+- Web Security Labs
+- Capture The Flag Challenges
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=tokyonight)## 🔥 GitHub Streak
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=juraijmughal378-png&theme=tokyonight)## 📫 Contact Me
+# 🏆 Certifications
 
-Email: juraij.sadaqat.cyb@uajk.edu.pk  
-LinkedIn: https://linkedin.com/in/juraij-mughal-b92a4939a
+- Cisco Introduction to Cybersecurity
+- Google Cybersecurity Certificate
+- TryHackMe Pre Security Path
+
+---
+
+# 📫 Contact Me
+
+📧 Email: juraij.sadaqat.cyb@uajk.edu.pk  
+
+💼 LinkedIn  
+https://linkedin.com/in/juraij-mughal-b92a4939a
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=juraijmughal378-png&color=blue)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033ff,100:00ff99&height=120&section=footer"/>
