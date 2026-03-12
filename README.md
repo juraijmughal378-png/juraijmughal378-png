@@ -17,10 +17,10 @@
 
 ---
 
-# 🔥 Matrix Cyber Animation
+# 🔥 Matrix Cyber System
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="500"/>
 </p>
 
 ---
@@ -62,11 +62,11 @@ Penetration Testing
 
 ---
 
-# 🎯 Cyber Missions
+# 🎯 Current Cyber Missions
 
 ✔ Reconnaissance  
-✔ Web Application Testing  
-✔ Privilege Escalation  
+✔ Web Application Security Testing  
+✔ Privilege Escalation Labs  
 ✔ Vulnerability Assessment  
 ✔ Capture The Flag Challenges  
 
@@ -75,7 +75,7 @@ Penetration Testing
 # 🚀 Featured Projects
 
 ### 🔹 Cybersecurity Portfolio
-A cybersecurity portfolio website showcasing:
+Portfolio website showcasing:
 
 • Penetration Testing  
 • OSINT Reconnaissance  
@@ -94,7 +94,7 @@ Red Team internship project including:
 ---
 
 ### 🔹 Student Management System
-A **C++ OOP project** for managing student records.
+A **C++ Object Oriented Programming project** to manage student records.
 
 ---
 
@@ -122,7 +122,7 @@ A **C++ OOP project** for managing student records.
 
 ---
 
-# 🐍 Contribution Snake Game
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
@@ -138,11 +138,11 @@ Practicing on:
 
 ---
 
-# 🎖 TryHackMe Progress
+# 🎖 TryHackMe Badge
 
 (Replace USERNAME with your TryHackMe username)
 
-![tryhackme](https://tryhackme-badges.s3.amazonaws.com/USERNAME.png)
+![badge](https://tryhackme-badges.s3.amazonaws.com/JuraijSadaqat.png)
 
 ---
 
@@ -154,9 +154,23 @@ Practicing on:
 
 ---
 
+# 🚀 Future Cybersecurity Projects
+
+Planned GitHub Projects:
+
+• Python Vulnerability Scanner  
+• Web Application Security Scanner  
+• Password Cracking Tool  
+• OSINT Recon Automation Tool  
+• Network Port Scanner  
+• Linux Privilege Escalation Scripts  
+• CTF Writeups Repository  
+
+---
+
 # 💀 Hacker Philosophy
 
-> “The quieter you become, the more you are able to hear.”
+> "Security is not a product, it's a process."
 
 ---
 
