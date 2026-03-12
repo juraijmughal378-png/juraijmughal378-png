@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Juraij%20Sadaqat%20(Cyber%20Commando)&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0033ff&height=220&section=header&text=Juraij%20Sadaqat%20(Cyber%20Commando)&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 # 👨‍💻 Juraij Sadaqat (Cyber Commando)
 
@@ -7,12 +7,9 @@
 🐧 Linux & Open Source Advocate  
 🚀 Passionate about Penetration Testing & Security Research  
 
-I am focused on **Cybersecurity, Ethical Hacking and Vulnerability Research**.  
-Currently practicing security labs and building cybersecurity tools.
-
 ---
 
-# 🖥️ Cyber Terminal
+# 🖥️ Hacker Terminal
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&lines=Booting+Cyber+Systems...;Cyber+Commando+Activated...;Running+Security+Protocols...;Penetration+Testing+In+Progress..."/>
@@ -23,39 +20,27 @@ Currently practicing security labs and building cybersecurity tools.
 # 🔥 Cyber Matrix System
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="520"/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
 </p>
-
----
-
-# 🧠 Cybersecurity Learning Path
-
-Networking → Linux → Web Security → Penetration Testing → Red Team Operations
-
-Practicing on:
-
-• TryHackMe  
-• Hack The Box  
-• PortSwigger Labs  
 
 ---
 
 # 🎮 Cyber Skill Progress
 
 Python  
-██████████░░░░ 70%
+██████████░░░░ 70%  
 
 Linux  
-████████████░░ 85%
+████████████░░ 85%  
 
 Networking  
-████████░░░░░░ 60%
+████████░░░░░░ 60%  
 
 Web Security  
-██████████░░░░ 70%
+██████████░░░░ 70%  
 
 Penetration Testing  
-███████░░░░░░░ 55%
+███████░░░░░░░ 55%  
 
 ---
 
@@ -65,81 +50,40 @@ Penetration Testing
 
 ---
 
-# 🔐 Cybersecurity Arsenal
+# 🔐 Cybersecurity Tools
 
-• Nmap  
-• Burp Suite  
-• Wireshark  
-• Metasploit  
-• Gobuster  
-• Nikto  
-• Hydra  
-
----
-
-# 🎯 Current Cyber Missions
-
-✔ Reconnaissance & OSINT  
-✔ Web Application Security Testing  
-✔ Privilege Escalation Labs  
-✔ Vulnerability Assessment  
-✔ Capture The Flag Challenges  
+• Nmap • Burp Suite • Wireshark • Metasploit • Gobuster • Nikto • Hydra  
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🔹 Cybersecurity Portfolio
-A portfolio website showcasing:
-
-• Penetration Testing  
-• OSINT Reconnaissance  
-• Digital Forensics  
-• Vulnerability Assessment  
-
----
+Portfolio website showcasing OSINT, Pentesting & Vulnerability Assessment  
 
 ### 🔹 Reconnaissance Attack Surface Mapping
-Red Team internship project including:
-
-• Target reconnaissance  
-• Attack surface discovery  
-• Security analysis  
-
----
+Red Team internship project: Target Recon & Info Gathering  
 
 ### 🔹 Student Management System
-A **C++ Object Oriented Programming project** for managing student records.
+C++ OOP project managing student records  
 
 ---
 
 # 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&hide_title=false&line_height=30)
 
 ---
 
-# 📡 Cyber Activity Graph
+# 📡 Activity Graph
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378-png&theme=react-dark)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378-png&theme=react-dark&hide_border=false&area=true&count_private=true)
 
 ---
 
 # 🔥 GitHub Streak
 
 ![streak](https://streak-stats.demolab.com/?user=juraijmughal378-png&theme=tokyonight)
-
----
-
-# 💻 Top Languages
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juraijmughal378-png&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Achievements
-
-![trophies](https://github-profile-trophy.vercel.app/?username=juraijmughal378-png&theme=matrix)
 
 ---
 
@@ -151,16 +95,13 @@ A **C++ Object Oriented Programming project** for managing student records.
 
 # 🧠 Cybersecurity Labs
 
-• TryHackMe  
-• Hack The Box  
-• PortSwigger Web Security Academy  
-• Capture The Flag Challenges  
+• TryHackMe • Hack The Box • PortSwigger Labs • CTF Challenges  
 
 ---
 
 # 🎖 TryHackMe Badge
 
-Replace USERNAME with your TryHackMe username
+Replace `USERNAME` with your TryHackMe username  
 
 ![badge](https://tryhackme-badges.s3.amazonaws.com/USERNAME.png)
 
@@ -174,17 +115,28 @@ Replace USERNAME with your TryHackMe username
 
 ---
 
-# 🚀 Cybersecurity Project Roadmap
+# 💻 Top 20 Cybersecurity GitHub Projects (Ideas)
 
-Future repositories to build:
-
-• Python Vulnerability Scanner  
-• Web Application Security Scanner  
-• Password Cracking Tool  
-• OSINT Automation Toolkit  
-• Network Port Scanner  
-• Linux Privilege Escalation Scripts  
-• CTF Writeups Repository  
+1. Python Vulnerability Scanner  
+2. Web Application Security Scanner  
+3. Password Cracking Tool  
+4. OSINT Automation Toolkit  
+5. Network Port Scanner  
+6. Linux Privilege Escalation Scripts  
+7. CTF Writeups Repository  
+8. Metasploit Automation Scripts  
+9. Wireshark Packet Analyzer Scripts  
+10. SQL Injection Testing Toolkit  
+11. XSS Exploit Demonstrator  
+12. Email Phishing Simulation Tool  
+13. Cloud Security Assessment Scripts  
+14. IoT Device Security Toolkit  
+15. Malware Analysis Scripts  
+16. Security Dashboard (Python/JS)  
+17. VPN Penetration Testing Toolkit  
+18. Firewall Rule Analyzer  
+19. API Security Testing Toolkit  
+20. Steganography Analyzer  
 
 ---
 
@@ -196,11 +148,8 @@ Future repositories to build:
 
 # 📫 Contact
 
-📧 Email  
-juraij.sadaqat.cyb@uajk.edu.pk  
-
-💼 LinkedIn  
-https://linkedin.com/in/juraij-mughal-b92a4939a
+📧 Email: juraij.sadaqat.cyb@uajk.edu.pk  
+💼 LinkedIn: https://linkedin.com/in/juraij-mughal-b92a4939a  
 
 ---
 
@@ -208,4 +157,4 @@ https://linkedin.com/in/juraij-mughal-b92a4939a
 
 ![](https://komarev.com/ghpvc/?username=juraijmughal378-png&color=brightgreen)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033ff,100:00ff99&height=120&section=footer"/>
