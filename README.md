@@ -1,15 +1,10 @@
-<!-- MATRIX HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header" />
-</p>
-
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/banner.jpeg" width="100%" alt="Juraij Sadaqat - Red Team Operator Banner" />
 </p>
 
-# <p align="center">Juraij Sadaqat</p>
-### <p align="center">🛡️ Red Team Operator | Ethical Hacker | Cybersecurity Researcher</p>
+# Juraij Sadaqat
+### 🛡️ Red Team Operator | Ethical Hacker | Cybersecurity Researcher
 
 ---
 
@@ -31,7 +26,7 @@ I’m a passionate Red Team Operator, OSINT investigator, and penetration tester
 | 🧠 **Adaptive Security Analyzer** | Detects anomalies and evaluates adaptive security behavior. |
 | 🌐 **Network Enumeration Tool** | Scans networks & discovers vulnerabilities in lab setups. |
 | 📝 **SQL Injection Simulator** | Practice web vulnerabilities safely. |
-| 🖥️ **Snake Terminal Game** | Terminal snake game integrated in my GitHub README for fun. |
+| 🖥️ **Snake Terminal Game** | Terminal snake game (static PNG screenshot included). |
 
 ---
 
@@ -49,7 +44,17 @@ I’m a passionate Red Team Operator, OSINT investigator, and penetration tester
 
 ## 🧰 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,git,github,burpsuite,wireshark,metasploit,nmap,figma,docker,anaconda,jupyter" />
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/python.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/cpp.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/bash.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/linux.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/kali.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/git.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/github.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/burpsuite.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/wireshark.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/metasploit.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/nmap.png" width="50"/>
 </p>
 
 ---
@@ -63,36 +68,25 @@ I’m a passionate Red Team Operator, OSINT investigator, and penetration tester
   <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="110"/>
 </p>
 
+---
+
+## 🎮 Hacker Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/snake-game.png" width="300"/>
 </p>
 
 ---
 
-## 🎮 Hacker Games
+## 🔥 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378/juraijmughal378/output/snake-dark.svg" width="300"/>
-</p>
-
----
-
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378&show_icons=true&theme=radical&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378&show_icons=true&theme=radical&border_radius=10"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378&theme=radical&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378&theme=radical&column=7&margin-w=15"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378&theme=react-dark"/>
 </p>
 
 ---
