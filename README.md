@@ -64,49 +64,19 @@ I thrive on identifying vulnerabilities and strengthening systems through real-w
 ---
 
 ## 🧬 Breach Simulation
-```diff
+
 + Initial Access: SUCCESS
 + Privilege Escalation: SUCCESS
 + Persistence: ACTIVE
-- Detection: BYPASSED## 🎮 Hacker Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/snake-game.png" width="300"/>
-</p>
-
-## 🏅 Badges & Certificates
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="110"/>
-</p>
-
-## 🔥 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378&show_icons=true&theme=radical&border_radius=10"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378&theme=radical&column=7&margin-w=15"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378&theme=react-dark"/>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/juraij-sadaqat-b92a4939a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://juraijmughal378-png.github.io/juraij-cyber-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge"/></a>
-  <a href="https://x.com/juraijmughal_78"><img src="https://img.shields.io/badge/X-black?style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/vulnerabilityhunter_786"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/></a>
-</p>
----
-
-## ☠️ Hacker Mindset
-> 💀 Think like a hacker, act like a strategist, defend like a pro.  
-> ⚡ “Every system has a weakness — find it before they do.”
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juraijmughal378&color=red"/>
-</p>
+- Detection: BYPASSED
+- 
+🎮 Hacker Game
+<p align="center"> <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/snake-game.png" width="300"/> </p>
+🏅 Badges & Certificates
+<p align="center"> <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="110"/> <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="110"/> <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="110"/> <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="110"/> <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="110"/> </p>
+🔥 GitHub Stats & Trophies
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378&show_icons=true&theme=radical&border_radius=10"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378&theme=radical&column=7&margin-w=15"/> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378&theme=react-dark"/> </p>
+🔗 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/juraij-sadaqat-b92a4939a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://juraijmughal378-png.github.io/juraij-cyber-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge"/></a> <a href="https://x.com/juraijmughal_78"><img src="https://img.shields.io/badge/X-black?style=for-the-badge"/></a> <a href="https://www.instagram.com/vulnerabilityhunter_786"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/></a> </p>
