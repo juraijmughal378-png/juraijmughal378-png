@@ -1,10 +1,15 @@
+<!-- MATRIX HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header" />
+</p>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/banner.jpeg" width="100%" alt="Juraij Sadaqat - Red Team Operator Banner" />
 </p>
 
-# Juraij Sadaqat
-### 🛡️ Red Team Operator | Ethical Hacker | Cybersecurity Researcher
+# <p align="center">Juraij Sadaqat</p>
+### <p align="center">🛡️ Red Team Operator | Ethical Hacker | Cybersecurity Researcher</p>
 
 ---
 
@@ -13,14 +18,13 @@ I’m a passionate Red Team Operator, OSINT investigator, and penetration tester
 
 💬 Ask me about **Python, C++, Bash, OSINT, Web Pentesting**  
 
-⚡ Fun fact: I love coding under terminal vibes 😎  
+⚡ Fun fact: I love coding under **terminal vibes** 😎  
 
 📫 Reach me: `juraijmughal378@gmail.com`  
 
 ---
 
 ## 💼 Featured Projects
-
 | Project | Description |
 | ------- | ----------- |
 | 🔐 **Student Management System** | Python & Web project for managing students and automation. |
@@ -43,20 +47,20 @@ I’m a passionate Red Team Operator, OSINT investigator, and penetration tester
 
 ---
 
-## 🧰 Tools & Tech
+## 🧰 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,git,github,burpsuite,wireshark,metasploit,nmap,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,git,github,burpsuite,wireshark,metasploit,nmap,figma,docker,anaconda,jupyter" />
 </p>
 
 ---
 
 ## 🏅 Badges & Certificates
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="110" />
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="110" />
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="110" />
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="110" />
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="110" />
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="110"/>
 </p>
 
 <p align="center">
@@ -79,9 +83,9 @@ I’m a passionate Red Team Operator, OSINT investigator, and penetration tester
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378&show_icons=true&theme=dracula&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378&show_icons=true&theme=radical&border_radius=10" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378&theme=dracula&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378&theme=radical&column=7&margin-w=15" />
 </p>
 
 ---
