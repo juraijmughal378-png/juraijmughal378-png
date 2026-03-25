@@ -64,12 +64,12 @@ I thrive on identifying vulnerabilities and strengthening systems through real-w
 ---
 
 ## 🧬 Breach Simulation
-
+``
+   diff
 + Initial Access: SUCCESS
 + Privilege Escalation: SUCCESS
 + Persistence: ACTIVE
 - Detection: BYPASSED
-- 
 🎮 Hacker Game
 <p align="center"> <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/snake-game.png" width="300"/> </p>
 🏅 Badges & Certificates
@@ -80,3 +80,9 @@ I thrive on identifying vulnerabilities and strengthening systems through real-w
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378&theme=react-dark"/> </p>
 🔗 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/juraij-sadaqat-b92a4939a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://juraijmughal378-png.github.io/juraij-cyber-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge"/></a> <a href="https://x.com/juraijmughal_78"><img src="https://img.shields.io/badge/X-black?style=for-the-badge"/></a> <a href="https://www.instagram.com/vulnerabilityhunter_786"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/></a> </p>
+☠️ Hacker Mindset
+
+💀 Think like a hacker, act like a strategist, defend like a pro.
+⚡ “Every system has a weakness — find it before they do.”
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juraijmughal378&color=red"/> </p> ```
