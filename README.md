@@ -84,6 +84,8 @@ I’m a passionate Red Team Operator, OSINT investigator, and penetration tester
   <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378&theme=dracula&column=7&margin-w=15" />
 </p>
 
+---
+
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378&theme=react-dark" />
