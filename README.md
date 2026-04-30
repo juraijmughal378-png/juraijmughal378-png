@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=%3E_%20JURAIJ%20SADAQAT&fontSize=50&fontColor=FF0000&fontAlignY=50&desc=Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cyber%20Researcher&descSize=15&descAlignY=70&descColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- BANNER — SMALL SIZE -->
+<!-- BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/banner.jpeg" width="55%" alt="Juraij Sadaqat Banner"/>
 </p>
@@ -161,19 +161,22 @@ class RedTeamOperator:
 
 ## `> cat certificates.log`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="ISC2"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="Red Team Leader"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="Ethical Hacking"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="Forensics"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="AI"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="Modern AI"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="Investigation"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png" width="80" height="80" style="object-fit:contain; margin:6px" alt="Penetration Lab"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg" width="80" height="80" style="object-fit:contain; margin:6px" alt="Biohacking"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg" width="80" height="80" style="object-fit:contain; margin:6px" alt="SQL Injection"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg" width="80" height="80" style="object-fit:contain; margin:6px" alt="Workshop"/>
-</p>
+<div align="center">
+<table><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="100" height="100"/><br/><sub>ISC2</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="100" height="100"/><br/><sub>Red Team Leader</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="100" height="100"/><br/><sub>Ethical Hacking</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png" width="100" height="100"/><br/><sub>Forensics</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="100" height="100"/><br/><sub>AI</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png" width="100" height="100"/><br/><sub>Modern AI</sub></td>
+</tr><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="100" height="100"/><br/><sub>Investigation</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png" width="100" height="100"/><br/><sub>Pentration Lab</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg" width="100" height="100"/><br/><sub>Biohacking</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg" width="100" height="100"/><br/><sub>SQL Injection</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg" width="100" height="100"/><br/><sub>Workshop</sub></td>
+</tr></table>
+</div>
 
 ---
 
@@ -181,30 +184,22 @@ class RedTeamOperator:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║             🎮  HACKER CHALLENGE — BEAT THE CLOCK           ║
+║          🎮  PLAY MY HACKER CHALLENGE GAME BELOW            ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   You have been given access to a vulnerable machine.        ║
-║   Clock is ticking. Can you pwn it before time runs out?     ║
+║   Can you pwn the target before time runs out?               ║
 ║                                                              ║
 ║   ⏱️  TIME LIMIT  : 15:00 Minutes                           ║
-║   🎯  OBJECTIVE   : Get root/SYSTEM access                  ║
+║   🎯  OBJECTIVE   : Get ROOT access                         ║
 ║   🔓  DIFFICULTY  : HARD                                     ║
 ║   💀  LIVES       : 1 — No second chances                   ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  STAGE 1  [██████████░░░░░░░░░░]  Recon         — 3:00 min  ║
-║  STAGE 2  [████████████████░░░░]  Exploit       — 5:00 min  ║
-║  STAGE 3  [██████████████████░░]  Priv Esc      — 4:00 min  ║
-║  STAGE 4  [████████████████████]  Root Shell    — 3:00 min  ║
-╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   🏆  HIGH SCORE : juraij_786 — 12:47 — ROOT OBTAINED ☠️   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> 🔴 **Think you can beat my score? Try [HackTheBox](https://www.hackthebox.com) or [TryHackMe](https://tryhackme.com)**
+> 🔴 **Try [HackTheBox](https://www.hackthebox.com) or [TryHackMe](https://tryhackme.com) for real challenges!**
 
 ---
 
