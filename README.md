@@ -1,3 +1,10 @@
+## `> launch game.exe`
+
+<p align="center">
+
+[![PLAY HACKER GAME](https://img.shields.io/badge/🎮_PLAY-HACKER%20TERMINAL%20GAME-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://juraijmughal378-png.github.io/juraij-cyber-portfolio/game.html)
+
+</p>
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=%3E_%20JURAIJ%20SADAQAT&fontSize=50&fontColor=FF0000&fontAlignY=50&desc=Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cyber%20Researcher&descSize=15&descAlignY=70&descColor=ffffff&animation=fadeIn"/>
