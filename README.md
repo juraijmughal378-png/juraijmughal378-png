@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=220&section=header&text=%3E_%20JURAIJ%20SADAQAT&fontSize=55&fontColor=FF0000&fontAlignY=50&desc=Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cyber%20Researcher&descSize=16&descAlignY=70&descColor=ffffff&animation=fadeIn"/>
 </p>
 
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/banner.jpeg" width="80%" alt="Juraij Sadaqat Banner"/>
+</p>
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%3E+Initializing+Red+Team+Protocol...;%3E+Scanning+Target+Network...;%3E+Vulnerabilities+Found%3A+CRITICAL;%3E+Privilege+Escalation%3A+SUCCESS;%3E+Domain+Admin+Access%3A+GRANTED+%F0%9F%94%93;%3E+Detection%3A+BYPASSED+%E2%98%A0%EF%B8%8F;%3E+Think+Like+A+Hacker.+Always." alt="Typing SVG"/>
@@ -157,11 +162,17 @@ class RedTeamOperator:
 ## `> cat certificates.log`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="95"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="95"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="95"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="95"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="95"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="90" alt="ISC2"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="90" alt="Red Team Leader"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="90" alt="Ethical Hacking"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png" width="90" alt="Forensics"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="90" alt="AI"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png" width="90" alt="Modern AI"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="90" alt="Investigation"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png" width="90" alt="Penetration Lab"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg" width="90" alt="Biohacking"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg" width="90" alt="SQL Injection"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg" width="90" alt="Workshop"/>
 </p>
 
 ---
