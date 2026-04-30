@@ -1,1 +1,99 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Hacker Terminal Game — Juraij</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#000;color:#ff0000;font-family:'Courier New',monospace;display:flex;justify-content:center;align-items:center;min-height:100vh;padding:16px}
+#game{width:100%;max-width:680px;background:#000;border:1px solid #ff0000;border-radius:8px;padding:16px}
+.title{text-align:center;color:#ff0000;font-size:18px;font-weight:bold;border-bottom:1px solid #ff0000;padding-bottom:8px;margin-bottom:12px;letter-spacing:2px}
+.stats{display:flex;gap:16px;margin-bottom:12px;font-size:13px}
+.stat{background:#0a0000;border:1px solid #ff0000;border-radius:4px;padding:4px 10px}
+.stat span{color:#ff6666}
+#terminal{background:#0a0000;border:1px solid #330000;border-radius:4px;padding:10px;height:200px;overflow-y:auto;font-size:12px;margin-bottom:12px}
+.line{margin-bottom:3px;line-height:1.4}
+.line.green{color:#00ff00}
+.line.red{color:#ff4444}
+.line.yellow{color:#ffaa00}
+.line.white{color:#ffffff}
+.line.dim{color:#555}
+.stages{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:12px}
+.stage{background:#0a0000;border:1px solid #330000;border-radius:4px;padding:8px;text-align:center;font-size:11px;transition:all 0.3s}
+.stage.active{border-color:#ffaa00;color:#ffaa00}
+.stage.done{border-color:#00ff00;color:#00ff00}
+.stage.locked{color:#333;border-color:#1a0000}
+.stage-icon{font-size:16px;margin-bottom:4px}
+.stage-name{font-weight:bold;margin-bottom:2px}
+.stage-time{font-size:10px;color:#555}
+.stage.active .stage-time{color:#ffaa00}
+.stage.done .stage-time{color:#00ff00}
+.progress-bar{background:#0a0000;border:1px solid #330000;border-radius:4px;height:12px;margin-bottom:12px;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,#ff0000,#ff6600);transition:width 0.5s;width:0%}
+.controls{display:flex;gap:8px}
+.btn{flex:1;padding:8px;border:1px solid #ff0000;background:#0a0000;color:#ff0000;font-family:'Courier New',monospace;font-size:13px;border-radius:4px;cursor:pointer;letter-spacing:1px;transition:all 0.2s}
+.btn:hover{background:#ff0000;color:#000}
+.btn:disabled{border-color:#330000;color:#330000;cursor:not-allowed}
+.btn:disabled:hover{background:transparent;color:#330000}
+.timer{text-align:center;font-size:28px;font-weight:bold;color:#ff0000;margin-bottom:8px;letter-spacing:4px}
+.timer.warning{color:#ffaa00;animation:blink 0.5s infinite}
+.timer.danger{color:#ff0000;animation:blink 0.3s infinite}
+@keyframes blink{50%{opacity:0.3}}
+.score-bar{display:flex;justify-content:space-between;font-size:12px;margin-bottom:8px;color:#ff6666}
+</style>
+</head>
+<body>
+<div id="game">
+  <div class="title">☠ CYBERSTER — RED TEAM TERMINAL ☠</div>
+  <div class="score-bar">
+    <span>OPERATOR: juraij_786</span>
+    <span id="score-display">SCORE: 0</span>
+    <span id="hs">BEST: --:--</span>
+  </div>
+  <div class="timer" id="timer">15:00</div>
+  <div class="stages">
+    <div class="stage locked" id="s0"><div class="stage-icon">🔍</div><div class="stage-name">RECON</div><div class="stage-time">3:00 min</div></div>
+    <div class="stage locked" id="s1"><div class="stage-icon">🔧</div><div class="stage-name">EXPLOIT</div><div class="stage-time">5:00 min</div></div>
+    <div class="stage locked" id="s2"><div class="stage-icon">🔒</div><div class="stage-name">PRIV ESC</div><div class="stage-time">4:00 min</div></div>
+    <div class="stage locked" id="s3"><div class="stage-icon">☠️</div><div class="stage-name">ROOT</div><div class="stage-time">3:00 min</div></div>
+  </div>
+  <div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
+  <div id="terminal">
+    <div class="line dim">█████ CYBERSTER RED TEAM TERMINAL v2.0 █████</div>
+    <div class="line dim">Press [START MISSION] to begin...</div>
+  </div>
+  <div class="controls">
+    <button class="btn" id="startBtn" onclick="startGame()">[ START MISSION ]</button>
+    <button class="btn" id="actionBtn" onclick="doAction()" disabled>[ EXECUTE ]</button>
+    <button class="btn" id="resetBtn" onclick="resetGame()" disabled>[ ABORT ]</button>
+  </div>
+</div>
+<script>
+let timer,elapsed=0,totalTime=900,running=false,stage=-1,score=0,highScore=null;
+const stages=[
+  {name:"RECON",cmds:["nmap -sV -p- 192.168.1.100","enum4linux -a 192.168.1.100","gobuster dir -u http://target/ -w wordlist.txt"]},
+  {name:"EXPLOIT",cmds:["msfconsole -q","use exploit/multi/handler","searchsploit vsftpd 2.3.4","python3 exploit.py 192.168.1.100"]},
+  {name:"PRIV ESC",cmds:["sudo -l","find / -perm -4000 2>/dev/null","python3 -c 'import pty; pty.spawn(\"/bin/bash\")'"]},
+  {name:"ROOT",cmds:["whoami","cat /etc/shadow","id && hostname","MISSION COMPLETE — DOMAIN OWNED"]}
+];
+const msgs=[
+  ["[*] Starting scan...","green"],["[+] Open ports: 21,22,80,445","green"],
+  ["[!] vsftpd 2.3.4 detected!","yellow"],["[+] CVE-2011-2523 found!","yellow"],
+  ["[*] Launching exploit...","green"],["[+] Shell obtained!","green"],
+  ["[!] Low privilege — escalating...","yellow"],["[+] SUID binary: /usr/bin/nmap","green"],
+  ["[*] Spawning root shell...","green"],["[ROOT] Access granted!","green"],
+  ["[*] Dumping /etc/shadow...","green"],["[+] Hashes captured!","green"]
+];
+let cmdIdx=[0,0,0,0],msgIdx=0;
+function pad(n){return String(Math.floor(n)).padStart(2,'0')}
+function formatTime(s){return pad(s/60)+':'+pad(s%60)}
+function log(text,cls='white'){const t=document.getElementById('terminal');const d=document.createElement('div');d.className='line '+cls;d.textContent=text;t.appendChild(d);t.scrollTop=t.scrollHeight}
+function updateTimer(){const rem=totalTime-elapsed;const el=document.getElementById('timer');el.textContent=formatTime(rem);el.className='timer'+(rem<=60?' danger':rem<=180?' warning':'');document.getElementById('progress').style.width=(elapsed/totalTime*100)+'%';if(rem<=0){gameOver(false);return}elapsed++}
+function startGame(){running=true;elapsed=0;stage=0;score=0;cmdIdx=[0,0,0,0];msgIdx=0;document.getElementById('terminal').innerHTML='';document.getElementById('score-display').textContent='SCORE: 0';document.getElementById('startBtn').disabled=true;document.getElementById('actionBtn').disabled=false;document.getElementById('resetBtn').disabled=false;for(let i=0;i<4;i++){document.getElementById('s'+i).className='stage '+(i===0?'active':'locked')}log('> MISSION STARTED — Good luck operator.','yellow');log('> STAGE 1: RECON','yellow');log('$ '+stages[0].cmds[0],'white');timer=setInterval(updateTimer,1000)}
+function doAction(){if(!running||stage<0||stage>3)return;const s=stages[stage];const ci=cmdIdx[stage];if(ci<s.cmds.length-1){cmdIdx[stage]++;log('$ '+s.cmds[cmdIdx[stage]],'white');if(msgIdx<msgs.length){log(msgs[msgIdx][0],msgs[msgIdx][1]);msgIdx++}score+=50}else{score+=200;document.getElementById('score-display').textContent='SCORE: '+score;document.getElementById('s'+stage).className='stage done';log('[+] STAGE '+(stage+1)+' COMPLETE!','green');stage++;if(stage>3){gameOver(true);return}document.getElementById('s'+stage).className='stage active';log('> STAGE '+(stage+1)+': '+stages[stage].name,'yellow');log('$ '+stages[stage].cmds[0],'white');if(msgIdx<msgs.length){log(msgs[msgIdx][0],msgs[msgIdx][1]);msgIdx++}}document.getElementById('score-display').textContent='SCORE: '+score}
+function gameOver(win){clearInterval(timer);running=false;document.getElementById('actionBtn').disabled=true;document.getElementById('startBtn').disabled=false;if(win){const t=formatTime(elapsed);log('','white');log('╔══════════════════════════════════╗','green');log('║  MISSION COMPLETE — ROOT OBTAINED ║','green');log('║  TIME: '+t+'  SCORE: '+score+'        ║','green');log('╚══════════════════════════════════╝','green');if(!highScore||elapsed<highScore){highScore=elapsed;document.getElementById('hs').textContent='BEST: '+t}for(let i=0;i<4;i++)document.getElementById('s'+i).className='stage done'}else{log('','white');log('╔══════════════════════════════════╗','red');log('║  MISSION FAILED — TIME OUT       ║','red');log('║  SCORE: '+score+'                     ║','red');log('╚══════════════════════════════════╝','red')}}
+function resetGame(){clearInterval(timer);running=false;stage=-1;elapsed=0;document.getElementById('timer').textContent='15:00';document.getElementById('timer').className='timer';document.getElementById('progress').style.width='0%';document.getElementById('terminal').innerHTML='';document.getElementById('startBtn').disabled=false;document.getElementById('actionBtn').disabled=true;document.getElementById('resetBtn').disabled=true;document.getElementById('score-display').textContent='SCORE: 0';for(let i=0;i<4;i++)document.getElementById('s'+i).className='stage locked';log('█████ CYBERSTER RED TEAM TERMINAL v2.0 █████','dim');log('Press [START MISSION] to begin...','dim')}
+</script>
+</body>
+</html>
