@@ -1,35 +1,44 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=Juraij%20Sadaqat&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=%3E_%20Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cyber%20Researcher&descSize=15&descAlignY=75&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=220&section=header&text=%3E_%20JURAIJ%20SADAQAT&fontSize=55&fontColor=FF0000&fontAlignY=50&desc=Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cyber%20Researcher&descSize=16&descAlignY=70&descColor=ffffff&animation=fadeIn"/>
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+Initializing+Red+Team+Protocol...;%3E+Target+Acquired...;%3E+Exploiting+Vulnerabilities...;%3E+Access+Granted+%F0%9F%94%93;%3E+Think+Like+A+Hacker." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%3E+Initializing+Red+Team+Protocol...;%3E+Scanning+Target+Network...;%3E+Vulnerabilities+Found%3A+CRITICAL;%3E+Privilege+Escalation%3A+SUCCESS;%3E+Domain+Admin+Access%3A+GRANTED+%F0%9F%94%93;%3E+Detection%3A+BYPASSED+%E2%98%A0%EF%B8%8F;%3E+Think+Like+A+Hacker.+Always." alt="Typing SVG"/>
 </p>
 
+<!-- TOP BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8F_Red%20Team-Operator-FF0000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%F0%9F%92%80_Ethical-Hacker-black?style=for-the-badge&logo=hackthebox&logoColor=red"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%80_Ethical-Hacker-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=red"/>
   <img src="https://img.shields.io/badge/%F0%9F%94%B4_Cyberster-Intern-8B0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_OSINT-Investigator-1a1a1a?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juraijmughal378-png&color=red&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██╗██╗   ██╗██████╗  █████╗ ██╗     ██╗                   ║
-║   ██║██║   ██║██╔══██╗██╔══██╗██║     ██║                   ║
-║   ██║██║   ██║██████╔╝███████║██║     ██║                   ║
-║   ██║██║   ██║██╔══██╗██╔══██║██║     ██║                   ║
-║   ██║╚██████╔╝██║  ██║██║  ██║███████╗██║                   ║
-║   ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝                  ║
-║                                                               ║
-║         > RED TEAM OPERATOR | JURAIJ SADAQAT                 ║
-║         > STATUS: ACTIVE | TARGET: ALWAYS IN SCOPE           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    ░░░░░██╗██╗   ██╗██████╗  █████╗ ██╗     ██╗░░░░░            ║
+║    ░░░░░██║██║   ██║██╔══██╗██╔══██╗██║     ██║░░░░░            ║
+║    ░░░░░██║██║   ██║██████╔╝███████║██║     ██║░░░░░            ║
+║    ██╗░░██║██║   ██║██╔══██╗██╔══██║██║     ██║░░██╗            ║
+║    ╚█████╔╝╚██████╔╝██║  ██║██║  ██║███████╗███████║            ║
+║    ░╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝            ║
+║                                                                   ║
+║      > IDENTITY  : Juraij Sadaqat                                ║
+║      > ALIAS     : VulnerabilityHunter_786                       ║
+║      > ROLE      : Red Team Operator                             ║
+║      > STATUS    : 🔴 ONLINE — Target Always In Scope            ║
+║      > LOCATION  : Pakistan 🇵🇰                                  ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -47,7 +56,7 @@ class RedTeamOperator:
         self.email       = "juraijmughal378@gmail.com"
         self.skills      = [
                              "Active Directory Attacks",
-                             "Web Pentesting",
+                             "Web Pentesting & Bug Hunting",
                              "OSINT & Threat Intelligence",
                              "Network Exploitation",
                              "Kerberos & Credential Attacks",
@@ -56,10 +65,13 @@ class RedTeamOperator:
         self.motto       = "Every system has a weakness. Find it first."
 
     def current_mission(self):
-        return "Advanced Persistence & Domain Dominance — Active Directory"
+        return "Advanced Persistence & Domain Dominance"
 
-    def status(self):
-        return "🔴 ONLINE | Scanning for vulnerabilities..."
+    def threat_level(self):
+        return "🔴 CRITICAL"
+
+    def detection_status(self):
+        return "☠️  BYPASSED — 0 Alerts Triggered"
 ```
 
 ---
@@ -67,18 +79,20 @@ class RedTeamOperator:
 ## `> cat breach_log.txt`
 
 ```diff
-[2026-04-29 | 03:14:07] OPERATION: DOMAIN DOMINANCE
-════════════════════════════════════════════════════
-+ [✔] RECON          → Target Mapped Successfully
-+ [✔] INITIAL ACCESS → LLMNR/NBT-NS Poisoning — Hash Captured
-+ [✔] CREDENTIALS    → NTLMv2 Cracked Offline
-+ [✔] ESCALATION     → Domain Admin Privileges Obtained
-+ [✔] LATERAL MOVE   → All Workstations Compromised
-+ [✔] PERSISTENCE    → Golden Ticket Deployed (10yr Validity)
-- [✘] DETECTION      → 0 Alerts Triggered
-- [✘] DEFENSE        → Bypassed Successfully
-════════════════════════════════════════════════════
-[STATUS]: MISSION COMPLETE ☠️
+╔══════════════════════════════════════════════════════════════╗
+║  [2026-04-29 | 03:14:07]  OPERATION: DOMAIN DOMINANCE       ║
+╠══════════════════════════════════════════════════════════════╣
++ [✔] RECON            → Target Mapped Successfully
++ [✔] INITIAL ACCESS   → LLMNR/NBT-NS Poisoning Complete
++ [✔] CREDENTIALS      → NTLMv2 Hash Captured & Cracked
++ [✔] ESCALATION       → Domain Admin Privileges Obtained
++ [✔] LATERAL MOVE     → All Workstations Compromised
++ [✔] PERSISTENCE      → Golden Ticket Deployed (10yr)
+- [✘] DETECTION        → 0 Alerts Triggered
+- [✘] DEFENSE          → Fully Bypassed
+╠══════════════════════════════════════════════════════════════╣
+║  MISSION STATUS: COMPLETE ☠️  — DOMAIN OWNED                ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -98,18 +112,20 @@ class RedTeamOperator:
 ## `> skill --scan --output=visual`
 
 ```
-OFFENSIVE SKILLS
-─────────────────────────────────────────────────────
-Python              ████████████████████░░  90% ██
-Linux Exploitation  ██████████████████░░░░  80% ██
-Web Pentesting      ██████████████████░░░░  80% ██
-Active Directory    ██████████████████░░░░  80% ██
-OSINT               ██████████████████░░░░  80% ██
-Network Security    ██████████████████░░░░  80% ██
-C++ Programming     ████████████████░░░░░░  70% ██
-Bash Scripting      ████████████████░░░░░░  70% ██
-─────────────────────────────────────────────────────
-THREAT LEVEL: ████████████████████ CRITICAL
+╔══════════════════════════════════════════════════════════╗
+║              OFFENSIVE SKILL ASSESSMENT                  ║
+╠══════════════════════════════════════════════════════════╣
+║  Python              ██████████████████████░░  90%  🔥  ║
+║  Linux Exploitation  ████████████████████░░░░  80%  ⚡  ║
+║  Web Pentesting      ████████████████████░░░░  80%  🌐  ║
+║  Active Directory    ████████████████████░░░░  80%  🏴  ║
+║  OSINT               ████████████████████░░░░  80%  🕵️  ║
+║  Network Security    ████████████████████░░░░  80%  🔴  ║
+║  C++ Programming     ████████████████░░░░░░░░  70%  💻  ║
+║  Bash Scripting      ████████████████░░░░░░░░  70%  ⚙️  ║
+╠══════════════════════════════════════════════════════════╣
+║  THREAT LEVEL: ████████████████████████  CRITICAL 🔴    ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -146,14 +162,6 @@ THREAT LEVEL: ████████████████████ CRITI
   <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="95"/>
   <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="95"/>
   <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="95"/>
-</p>
-
----
-
-## `> snake --play`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/snake-game.png" width="280" alt="Snake Terminal Game"/>
 </p>
 
 ---
@@ -212,19 +220,22 @@ THREAT LEVEL: ████████████████████ CRITI
 ## `> mindset.exe`
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ☠️  "Think like a hacker.                             ║
-║        Act like a strategist.                            ║
-║        Defend like a pro."                               ║
-║                                                          ║
-║   ⚡  "Every system has a weakness —                    ║
-║        find it before they do."                          ║
-║                                                          ║
-║   🔴  "The best defense is a deep                       ║
-║        understanding of the offense."                    ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ☠️   "Think like a hacker.                                ║
+║         Act like a strategist.                               ║
+║         Defend like a pro."                                  ║
+║                                                              ║
+║   ⚡   "Every system has a weakness —                       ║
+║         find it before they do."                             ║
+║                                                              ║
+║   🔴   "The best defense is a deep                          ║
+║         understanding of the offense."                       ║
+║                                                              ║
+║   💀   "We don't break in. We walk through                  ║
+║         the door they left open."                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
