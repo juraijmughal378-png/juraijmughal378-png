@@ -1,93 +1,110 @@
-<!-- HEADER -->
+<!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:C0001A&height=120&section=header&text=Juraij%20Sadaqat&fontSize=40&fontColor=ffffff&fontAlignY=65&desc=Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cybersecurity%20Researcher&descSize=14&descAlignY=85" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:C0001A&height=120&section=header&text=Juraij%20Sadaqat&fontSize=38&fontColor=ffffff&fontAlignY=65&desc=Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cybersecurity%20Researcher&descSize=13&descAlignY=85"/>
 </p>
 
-<!-- Banner -->
+<!-- BADGES -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/banner.jpeg" alt="Juraij Sadaqat - Red Team Operator" width="80%"/>
+  <img src="https://img.shields.io/badge/Red%20Team-Operator-red?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethical-Hacker-black?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyberster-Intern-8B0000?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-Investigator-darkred?style=for-the-badge&logo=tor-project&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Operator-red?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethical-Hacker-black?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyberster-Intern-darkred?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=juraijmughal378-png&color=red&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate **Red Team Operator**, OSINT investigator, and penetration tester dedicated to discovering vulnerabilities and strengthening security through real-world attack simulations. Currently completing my Red Team Internship at **Cyberster**, where I conduct hands-on AD attacks, network exploitation, and persistence research in authorized lab environments.
+```python
+class RedTeamOperator:
+    def __init__(self):
+        self.name       = "Juraij Sadaqat"
+        self.role       = "Red Team Operator & Penetration Tester"
+        self.internship = "Cyberster Red Team Internship"
+        self.email      = "juraijmughal378@gmail.com"
+        self.skills     = ["Active Directory Attacks", "Web Pentesting",
+                           "OSINT", "Network Exploitation", "Python", "Bash"]
+        self.motto      = "Think like a hacker. Act like a strategist. Defend like a pro."
 
-- 🔴 Currently: **Red Team Intern @ Cyberster**
-- 💬 Ask me about: **Python, C++, Bash, OSINT, Web Pentesting, Active Directory**
-- 📫 Reach me: `juraijmughal378@gmail.com`
-- ⚡ Fun fact: I love coding under **terminal vibes** 😎
+    def current_focus(self):
+        return "Advanced Persistence & Domain Dominance in Active Directory"
+```
 
 ---
 
-## 🧬 Breach Simulation
+## 🧬 Breach Simulation Status
 
 ```diff
-+ Initial Access        : SUCCESS
-+ Privilege Escalation  : SUCCESS
-+ Lateral Movement      : SUCCESS
-+ Persistence           : ACTIVE
-- Detection             : BYPASSED
++ [SUCCESS]  Initial Access        → LLMNR/NBT-NS Poisoning
++ [SUCCESS]  Credential Capture    → NTLMv2 Hash Obtained
++ [SUCCESS]  Privilege Escalation  → Domain Admin Achieved
++ [SUCCESS]  Lateral Movement      → All Workstations Compromised
++ [ACTIVE]   Persistence           → Golden Ticket (10yr) Deployed
+- [BYPASSED] Detection             → Zero Alerts Triggered
 ```
 
 ---
 
 ## 💼 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🔐 **Student Management System** | Python & Web project for managing students & automation |
-| 🧠 **Adaptive Security Analyzer** | Detects anomalies & evaluates adaptive security behavior |
-| 🌐 **Network Enumeration Tool** | Scans networks & discovers active vulnerabilities |
-| 📝 **SQL Injection Simulator** | Safe environment to practice web vulnerabilities |
-| 🖥️ **Snake Terminal Game** | Terminal-based snake game built in Python |
-
----
-
-## 🎓 Cyberster Red Team Internship — Weekly Progress
-
-| Week | Topic | Report |
-|---|---|---|
-| Week 07 | Active Directory Enumeration & Kerberos Attacks | [📄 View Report](https://github.com/juraijmughal378-png/Cyberster-Red-Team-Internship-Week-07-Active-Directory-Enumeration-Kerberos-Attacks/blob/main/Week07_AD_Kerberos_Report.docx) |
-| Week 08 | AD Domain Dominance & Advanced Persistence | [📄 View Report](https://github.com/juraijmughal378-png/Cyberster-Red-Team-Internship-Week-8-AD-Domain-Dominance-Advanced-Persistence/blob/main/Week08_Final_Report_Juraij.docx) |
+| # | Project | Description | Status |
+|---|---|---|---|
+| 🔐 | **Student Management System** | Python & Web project for managing students & automation | ✅ Complete |
+| 🧠 | **Adaptive Security Analyzer** | Detects anomalies & evaluates adaptive security behavior | ✅ Complete |
+| 🌐 | **Network Enumeration Tool** | Scans networks & discovers active vulnerabilities | ✅ Complete |
+| 📝 | **SQL Injection Simulator** | Safe environment to practice web attack techniques | ✅ Complete |
+| 🖥️ | **Snake Terminal Game** | Terminal-based snake game built in Python | ✅ Complete |
 
 ---
 
 ## 🛠️ Skills & Expertise
 
-| Skill | Proficiency |
-|---|---|
-| Python | █████████░ 90% |
-| C++ | ███████░░░ 70% |
-| Bash | ███████░░░ 70% |
-| Linux Exploitation | ████████░░ 80% |
-| Web Pentesting | ████████░░ 80% |
-| Active Directory Attacks | ████████░░ 80% |
-| OSINT | ████████░░ 80% |
+```
+Python              ██████████████████░░  90%
+Linux Exploitation  ████████████████░░░░  80%
+Web Pentesting      ████████████████░░░░  80%
+Active Directory    ████████████████░░░░  80%
+OSINT               ████████████████░░░░  80%
+C++                 ██████████████░░░░░░  70%
+Bash Scripting      ██████████████░░░░░░  70%
+Network Security    ████████████████░░░░  80%
+```
 
 ---
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/python.png" width="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/cpp.png" width="50" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/bash.png" width="50" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/linux.png" width="50" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/kali.png" width="50" alt="Kali Linux"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/git.png" width="50" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/github.png" width="50" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/burpsuite.png" width="50" alt="Burp Suite"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/wireshark.png" width="50" alt="Wireshark"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/metasploit.png" width="50" alt="Metasploit"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/nmap.png" width="50" alt="Nmap"/>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+<!-- OS & Platforms -->
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<!-- Security Tools -->
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mimikatz-black?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/BloodHound-red?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=hashnode&logoColor=white"/>
+
+<!-- Dev Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </p>
 
 ---
@@ -95,21 +112,40 @@ I'm a passionate **Red Team Operator**, OSINT investigator, and penetration test
 ## 🏅 Badges & Certificates
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" alt="ISC2" width="100"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" alt="Red Team Leader" width="100"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" alt="Ethical Hacking" width="100"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" alt="AI Certificate" width="100"/>
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" alt="Investigation" width="100"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" alt="ISC2" width="95" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" alt="Red Team Leader" width="95" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" alt="Ethical Hacking" width="95" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" alt="AI Certificate" width="95" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" alt="Investigation" width="95" style="margin:5px"/>
 </p>
 
 ---
 
-## 🔥 GitHub Stats & Trophies
+## 🎮 Terminal Game
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378-png&theme=radical&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/snake-game.png" alt="Snake Terminal Game" width="280"/>
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=juraijmughal378-png&theme=radical&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraijmughal378-png&layout=compact&theme=radical&hide_border=true&border_radius=10" width="40%" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378-png&theme=radical&column=7&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -117,7 +153,7 @@ I'm a passionate **Red Team Operator**, OSINT investigator, and penetration test
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/graph.png" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378-png&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -129,13 +165,16 @@ I'm a passionate **Red Team Operator**, OSINT investigator, and penetration test
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://juraijmughal378-png.github.io/juraij-cyber-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://x.com/juraijmughal_78" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/vulnerabilityhunter_786" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:juraijmughal378@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -143,17 +182,23 @@ I'm a passionate **Red Team Operator**, OSINT investigator, and penetration test
 
 ## ☠️ Hacker Mindset
 
-> 💀 *Think like a hacker, act like a strategist, defend like a pro.*
+<p align="center">
+
+> 💀 *"Think like a hacker, act like a strategist, defend like a pro."*
 >
 > ⚡ *"Every system has a weakness — find it before they do."*
+>
+> 🔴 *"The best defense is understanding the offense."*
+
+</p>
 
 ---
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0001A,100:0a0a0a&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0001A,100:0a0a0a&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juraijmughal378-png&color=red&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=juraijmughal378-png&color=red&style=flat-square&label=Profile+Views"/>
 </p>
