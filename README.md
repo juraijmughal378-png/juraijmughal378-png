@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![PLAY HACKER GAME](https://img.shields.io/badge/🎮_PLAY-HACKER%20TERMINAL%20GAME-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://juraijmughal378-png.github.io/juraij-cyber-portfolio/game.html)
+[![PLAY HACKER GAME](https://img.shields.io/badge/🎮_PLAY-HACKER%20TERMINAL%20GAME-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://juraijmughal378-png.github.io/juraijmughal378-png/game.html)
 
 </p>
 <!-- HEADER -->
