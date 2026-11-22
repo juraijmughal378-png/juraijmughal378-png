@@ -1,207 +1,295 @@
-![Cyber Security Banner](banner.jpeg)
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=%3E_%20JURAIJ%20SADAQAT&fontSize=50&fontColor=FF0000&fontAlignY=50&desc=Red%20Team%20Operator%20%7C%20Ethical%20Hacker%20%7C%20Cyber%20Researcher&descSize=15&descAlignY=70&descColor=ffffff&animation=fadeIn"/>
+</p>
 
-<div align="center">
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/banner.jpeg" width="55%" alt="Juraij Sadaqat Banner"/>
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&width=900&lines=%3E_+Juraij+Sadaqat;Cybersecurity+%7C+Ethical+Hacking;Red+Team+Operator+%7C+Bug+Bounty+Hunter)
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%3E+Initializing+Red+Team+Protocol...;%3E+Scanning+Target+Network...;%3E+Vulnerabilities+Found%3A+CRITICAL;%3E+Privilege+Escalation%3A+SUCCESS;%3E+Domain+Admin+Access%3A+GRANTED+%F0%9F%94%93;%3E+Detection%3A+BYPASSED+%E2%98%A0%EF%B8%8F;%3E+Think+Like+A+Hacker.+Always." alt="Typing SVG"/>
+</p>
 
-# >_ Juraij Sadaqat
+<!-- TOP BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8F_Red%20Team-Operator-FF0000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%80_Ethical-Hacker-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=red"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%B4_Cyberster-Intern-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_OSINT-Investigator-1a1a1a?style=for-the-badge"/>
+</p>
 
-### Cybersecurity | Ethical Hacking
-
-![Red Team Operator](https://img.shields.io/badge/Red%20Team%20Operator-00ff00?style=for-the-badge)
-![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-00ff00?style=for-the-badge)
-![Cyberster Intern](https://img.shields.io/badge/Cyberster%20Intern-00ff00?style=for-the-badge)
-![OSINT Investigator](https://img.shields.io/badge/OSINT%20Investigator-00ff00?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juraijmughal378-png&color=red&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
-```bash
-$ whoami
-juraij_sadaqat
-
-$ cat identity.txt
-Name        : Juraij Sadaqat
-Alias       : VulnerabilityHunter_786
-Role        : Red Team Operator | Ethical Hacker | Cyber Researcher
-Status      : ONLINE
-Location    : Pakistan
-Focus       : Web Application Penetration Testing | Bug Bounty Hunting
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    ░░░░░██╗██╗   ██╗██████╗  █████╗ ██╗     ██╗░░░░░            ║
+║    ░░░░░██║██║   ██║██╔══██╗██╔══██╗██║     ██║░░░░░            ║
+║    ░░░░░██║██║   ██║██████╔╝███████║██║     ██║░░░░░            ║
+║    ██╗░░██║██║   ██║██╔══██╗██╔══██║██║     ██║░░██╗            ║
+║    ╚█████╔╝╚██████╔╝██║  ██║██║  ██║███████╗███████║            ║
+║    ░╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝            ║
+║                                                                   ║
+║      > IDENTITY  : Juraij Sadaqat                                ║
+║      > ALIAS     : VulnerabilityHunter_786                       ║
+║      > ROLE      : Red Team Operator                             ║
+║      > STATUS    : 🔴 ONLINE — Target Always In Scope            ║
+║      > LOCATION  : Pakistan 🇵🇰                                  ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## About
-
-Hi, I'm Juraij Sadaqat, a cybersecurity freelancer. I help find and fix security weaknesses in web applications, and I provide clear reports with practical fix recommendations.
-
-## What I do
-
-- Web Application Penetration Testing
-- OWASP Top 10 Vulnerability Assessment
-- SQL Injection, XSS, CSRF and IDOR testing
-- API Security Testing
-- Bug Bounty Hunting
-
-I provide detailed reports with fix recommendations for the issues I find.
-
-## Fiverr
-
-I offer my cybersecurity services on Fiverr as **juraijmughal378**.
-
-[View my Fiverr gig](http://www.fiverr.com/s/K332K9Y)
-
-## Currently learning
-
-- CSC-531 Data Structures & Algorithms — Section B
-- Cybersecurity
-- Computer vision
-
----
-
-## Internship
+## `> whoami`
 
 ```python
-class Juraij:
+class RedTeamOperator:
     def __init__(self):
-        self.name = "Juraij Sadaqat"
-        self.role = "Red Team Operator"
-        self.internship = "Cyberster Red Team Internship"
-        self.skills = ["Active Directory", "Web Pentesting & Bug Hunting", "OSINT", "Network Exploitation", "Kerberos"]
-        self.languages = ["Python", "C++", "Bash"]
-        self.motto = "Every system has a weakness — find it before the bad guys do."
-        self.mission = "Advanced Persistence & Domain Dominance"
-```
+        self.name        = "Juraij Sadaqat"
+        self.alias       = "VulnerabilityHunter_786"
+        self.role        = "Red Team Operator & Penetration Tester"
+        self.internship  = "Cyberster Red Team Internship"
+        self.location    = "Pakistan 🇵🇰"
+        self.email       = "juraijmughal378@gmail.com"
+        self.skills      = [
+                             "Active Directory Attacks",
+                             "Web Pentesting & Bug Hunting",
+                             "OSINT & Threat Intelligence",
+                             "Network Exploitation",
+                             "Kerberos & Credential Attacks",
+                             "Python | C++ | Bash"
+                           ]
+        self.motto       = "Every system has a weakness. Find it first."
 
-**Cyberster Red Team Internship** — Red Team Internship at Cyberster, focused on Active Directory, Web Pentesting & Bug Hunting, OSINT, Network Exploitation and Kerberos.
+    def current_mission(self):
+        return "Advanced Persistence & Domain Dominance"
+
+    def threat_level(self):
+        return "🔴 CRITICAL"
+
+    def detection_status(self):
+        return "☠️  BYPASSED — 0 Alerts Triggered"
+```
 
 ---
 
-## breach_log.txt
+## `> cat breach_log.txt`
 
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 01 | Red Team Infrastructure | Full AD lab with DC, workstations & attack box | ✅ Operational |
-| 02 | Web Pentest Framework | Automated recon + vulnerability scanner | ✅ Operational |
-| 03 | OSINT Toolkit | Username/email/domain intelligence gathering | ✅ Operational |
-| 04 | Kerberos Attack Suite | AS-REP Roasting, Kerberoasting & Pass-the-Ticket | ✅ Operational |
-| 05 | C2 Framework | Custom command & control with encrypted channels | 🔒 Classified |
+```diff
+╔══════════════════════════════════════════════════════════════╗
+║  [2026-04-29 | 03:14:07]  OPERATION: DOMAIN DOMINANCE       ║
+╠══════════════════════════════════════════════════════════════╣
++ [✔] RECON            → Target Mapped Successfully
++ [✔] INITIAL ACCESS   → LLMNR/NBT-NS Poisoning Complete
++ [✔] CREDENTIALS      → NTLMv2 Hash Captured & Cracked
++ [✔] ESCALATION       → Domain Admin Privileges Obtained
++ [✔] LATERAL MOVE     → All Workstations Compromised
++ [✔] PERSISTENCE      → Golden Ticket Deployed (10yr)
+- [✘] DETECTION        → 0 Alerts Triggered
+- [✘] DEFENSE          → Fully Bypassed
+╠══════════════════════════════════════════════════════════════╣
+║  MISSION STATUS: COMPLETE ☠️  — DOMAIN OWNED                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## Skill Scan
+## `> ls projects/`
 
-```
-Red Team Operations      ████████████████████ 95%
-Web Penetration Testing  ██████████████████░░ 90%
-Active Directory         █████████████████░░░ 85%
-OSINT & Investigation    ██████████████████░░ 88%
-Network Exploitation     ████████████████░░░░ 80%
-Python / C++ / Bash      █████████████████░░░ 85%
-```
-
-### Toolkit
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00ff00?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00ff00?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-00ff00?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-00ff00?style=for-the-badge)
-![BloodHound](https://img.shields.io/badge/BloodHound-00ff00?style=for-the-badge)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-00ff00?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-00ff00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-00ff00?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-00ff00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-00ff00?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-00ff00?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-00ff00?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory-00ff00?style=for-the-badge)
-![Kerberos](https://img.shields.io/badge/Kerberos-00ff00?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-00ff00?style=for-the-badge)
-![SQLMap](https://img.shields.io/badge/SQLMap-00ff00?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-00ff00?style=for-the-badge)
+| 🗂️ Project | 📄 Description | 🔰 Status |
+|---|---|---|
+| 🔐 **Student Management System** | Python & Web automation for student management | ✅ Deployed |
+| 🧠 **Adaptive Security Analyzer** | Anomaly detection & adaptive security evaluation | ✅ Deployed |
+| 🌐 **Network Enumeration Tool** | Active network scanning & vulnerability discovery | ✅ Deployed |
+| 📝 **SQL Injection Simulator** | Controlled web vulnerability practice environment | ✅ Deployed |
+| 🖥️ **Snake Terminal Game** | Terminal-based Python snake game | ✅ Deployed |
 
 ---
 
-## Certificates
+## `> skill --scan --output=visual`
 
-![ISC2 Candidate](https://img.shields.io/badge/ISC2%20Candidate-00ff00?style=for-the-badge)
-![OPSWAT ICIP](https://img.shields.io/badge/OPSWAT%20ICIP-00ff00?style=for-the-badge)
-![Red Team Leader](https://img.shields.io/badge/Red%20Team%20Leader-00ff00?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-00ff00?style=for-the-badge)
-![Forensics](https://img.shields.io/badge/Forensics-00ff00?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-00ff00?style=for-the-badge)
-![Modern AI](https://img.shields.io/badge/Modern%20AI-00ff00?style=for-the-badge)
-![Investigation](https://img.shields.io/badge/Investigation-00ff00?style=for-the-badge)
-![Penetration Lab](https://img.shields.io/badge/Penetration%20Lab-00ff00?style=for-the-badge)
-![Biohacking Essential](https://img.shields.io/badge/Biohacking%20Essential-00ff00?style=for-the-badge)
-![SQL Injection](https://img.shields.io/badge/SQL%20Injection-00ff00?style=for-the-badge)
-![Workshop](https://img.shields.io/badge/Workshop-00ff00?style=for-the-badge)
-
-- **ISC2 Candidate**
-- **OPSWAT Introduction to Critical Infrastructure Protection (ICIP)** — via Credly
-- Red Team Leader
-- Ethical Hacking
-- Forensics
-- AI
-- Modern AI
-- Investigation
-- Penetration Lab
-- Biohacking Essential
-- SQL Injection
-- Workshop
-
-### Certificate images
-
-| Certificate | Certificate |
-|-------------|-------------|
-| ![ISC2](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png) | ![Red Team Leader](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png) |
-| ![Ethical Hacking](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png) | ![Forensics](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png) |
-| ![AI](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png) | ![Modern AI](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png) |
-| ![Investigation](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png) | ![Penetration Lab](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png) |
-| ![Biohacking Essential](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg) | ![SQL Injection](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg) |
-| ![Workshop](https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg) | |
+```
+╔══════════════════════════════════════════════════════════╗
+║              OFFENSIVE SKILL ASSESSMENT                  ║
+╠══════════════════════════════════════════════════════════╣
+║  Python              ██████████████████████░░  90%  🔥  ║
+║  Linux Exploitation  ████████████████████░░░░  80%  ⚡  ║
+║  Web Pentesting      ████████████████████░░░░  80%  🌐  ║
+║  Active Directory    ████████████████████░░░░  80%  🏴  ║
+║  OSINT               ████████████████████░░░░  80%  🕵️  ║
+║  Network Security    ████████████████████░░░░  80%  🔴  ║
+║  C++ Programming     ████████████████░░░░░░░░  70%  💻  ║
+║  Bash Scripting      ████████████████░░░░░░░░  70%  ⚙️  ║
+╠══════════════════════════════════════════════════════════╣
+║  THREAT LEVEL: ████████████████████████  CRITICAL 🔴    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## The Game
+## `> toolkit --list`
 
-```bash
-while true; do
-  echo "Learning... Hacking... Securing..."
-  sleep 1
-done
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=windows&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Responder-FF0000?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## `> cat certificates.log`
 
 <div align="center">
-
-![Juraij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juraijmughal378-png&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juraijmughal378-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378-png&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00)
-
+<table><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="100" height="100"/><br/><sub>ISC2</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="100" height="100"/><br/><sub>Red Team Leader</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="100" height="100"/><br/><sub>Ethical Hacking</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png" width="100" height="100"/><br/><sub>Forensics</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="100" height="100"/><br/><sub>AI</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png" width="100" height="100"/><br/><sub>Modern AI</sub></td>
+</tr><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="100" height="100"/><br/><sub>Investigation</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png" width="100" height="100"/><br/><sub>Pentration Lab</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg" width="100" height="100"/><br/><sub>Biohacking</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg" width="100" height="100"/><br/><sub>SQL Injection</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg" width="100" height="100"/><br/><sub>Workshop</sub></td>
+</tr></table>
 </div>
 
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge)](https://www.linkedin.com/in/juraij-sadaqat-b92a4939a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge)](https://juraij-cyber-portfolio.vercel.app/)
-[![X](https://img.shields.io/badge/X-00ff00?style=for-the-badge)](https://x.com/juraijmughal_78)
-[![Instagram](https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge)](https://www.instagram.com/vulnerabilityhunter_786/)
-[![Gmail](https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge)](mailto:juraijmughal378@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/ISC2-Candidate-FF0000?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPSWAT-Introduction_to_Critical_Infrastructure_Protection_%28ICIP%29-0a0a0a?style=for-the-badge&logo=shield&logoColor=red"/>
+</p>
 
 ---
 
-> "Every system has a weakness — find it before the bad guys do."
->
-> **— Juraij Sadaqat**
+## `> launch game.exe`
 
-```bash
-$ exit
-# Session terminated. Stay secure. 🔒
 ```
+╔══════════════════════════════════════════════════════════════╗
+║          🎮  PLAY MY HACKER CHALLENGE GAME BELOW            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   Can you pwn the target before time runs out?               ║
+║                                                              ║
+║   ⏱️  TIME LIMIT  : 15:00 Minutes                           ║
+║   🎯  OBJECTIVE   : Get ROOT access                         ║
+║   🔓  DIFFICULTY  : HARD                                     ║
+║   💀  LIVES       : 1 — No second chances                   ║
+║                                                              ║
+║   🏆  HIGH SCORE : juraij_786 — 12:47 — ROOT OBTAINED ☠️   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> 🔴 **Try [HackTheBox](https://www.hackthebox.com) or [TryHackMe](https://tryhackme.com) for real challenges!**
+
+---
+
+## `> github --stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juraijmughal378-png&show_icons=true&theme=radical&hide_border=true&border_radius=10&title_color=FF0000&icon_color=FF0000" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=juraijmughal378-png&theme=radical&hide_border=true&border_radius=10&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraijmughal378-png&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=FF0000" width="40%"/>
+</p>
+
+---
+
+## `> trophies --display`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juraijmughal378-png&theme=radical&column=7&margin-w=10&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
+## `> graph --contributions`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juraijmughal378-png&theme=redical&hide_border=true&area=true&color=FF0000&line=FF0000&point=ffffff"/>
+</p>
+
+---
+
+## `> connect --social`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juraij-sadaqat-b92a4939a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://juraijmughal378-png.github.io/juraij-cyber-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/juraijmughal_78" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/vulnerabilityhunter_786" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:juraijmughal378@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="http://www.fiverr.com/s/K332K9Y" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## `> mindset.exe`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ☠️   "Think like a hacker.                                ║
+║         Act like a strategist.                               ║
+║         Defend like a pro."                                  ║
+║                                                              ║
+║   ⚡   "Every system has a weakness —                       ║
+║         find it before they do."                             ║
+║                                                              ║
+║   🔴   "The best defense is a deep                          ║
+║         understanding of the offense."                       ║
+║                                                              ║
+║   💀   "We don't break in. We walk through                  ║
+║         the door they left open."                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juraijmughal378-png&color=red&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
