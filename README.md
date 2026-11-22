@@ -55,6 +55,8 @@ I offer my cybersecurity services on Fiverr as **juraijmughal378**.
 ## Currently learning
 
 - CSC-531 Data Structures & Algorithms — Section B
+- Cybersecurity
+- Computer vision
 
 ---
 
