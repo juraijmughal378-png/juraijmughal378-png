@@ -163,18 +163,19 @@ class RedTeamOperator:
 
 <div align="center">
 <table><tr>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="100" height="100"/><br/><sub>ISC2</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="100" height="100"/><br/><sub>Red Team Leader</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="100" height="100"/><br/><sub>Ethical Hacking</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png" width="100" height="100"/><br/><sub>Forensics</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="100" height="100"/><br/><sub>AI</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png" width="100" height="100"/><br/><sub>Modern AI</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/ISC2.png" width="220" height="220"/><br/><sub>ISC2</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Red%20Team%20Leader.png" width="220" height="220"/><br/><sub>Red Team Leader</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ethical%20Hacking.png" width="220" height="220"/><br/><sub>Ethical Hacking</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Forensics.png" width="220" height="220"/><br/><sub>Forensics</sub></td>
 </tr><tr>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="100" height="100"/><br/><sub>Investigation</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png" width="100" height="100"/><br/><sub>Pentration Lab</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg" width="100" height="100"/><br/><sub>Biohacking</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg" width="100" height="100"/><br/><sub>SQL Injection</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg" width="100" height="100"/><br/><sub>Workshop</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Ai.png" width="220" height="220"/><br/><sub>AI</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Moderan%20AI.png" width="220" height="220"/><br/><sub>Modern AI</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Investigation.png" width="220" height="220"/><br/><sub>Investigation</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Penteration%20Lab.png" width="220" height="220"/><br/><sub>Pentration Lab</sub></td>
+</tr><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Biohacking%20Essential.jpg" width="220" height="220"/><br/><sub>Biohacking</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/SQL%20Injection.jpeg" width="220" height="220"/><br/><sub>SQL Injection</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/juraijmughal378-png/juraijmughal378-png/main/Workshop.jpeg" width="220" height="220"/><br/><sub>Workshop</sub></td>
 </tr></table>
 </div>
 
